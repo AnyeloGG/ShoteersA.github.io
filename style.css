@@ -1,0 +1,198 @@
+body {
+    text-align: center;
+}
+
+.titulo {
+    font-size: 100px;
+    height: 200px;
+    padding-top: 100px;
+    margin-top:0;
+    margin-bottom: 0;
+    background-color: black;
+    color: aliceblue;
+}
+
+.img {
+    height: auto;
+    background-color: darkgrey;
+    padding-bottom: 50px;
+}
+
+.img1 {
+    width: 600px;  
+    height: 400px;
+}
+
+.img2 {
+    width: 600px;  
+    height: 400px;
+}
+
+.valorant,
+.csgo {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding-top: 50px;
+}
+
+.ventajas{
+    width: 500px;
+}
+
+.desventajas{
+    width: 500px;
+}
+
+.ventajas,
+.desventajas {
+    display: inline-block;
+    height: 300px;
+    font-size: 20px;
+}
+
+.vendes {
+    background-color: darkgrey;
+    padding-top: 80px;
+}
+
+.descripcion {
+    font-size: 30px;
+    height: auto;
+    background-color: black;
+    color: aliceblue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+
+
+
+
+
+
+.inicio {
+    width: 1295px;
+    height: 300px;
+}
+.ini {
+    background-color: black;
+}
+
+.caracteristicas,.video{
+    width: 500px;
+    display: inline-block;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.sec {
+    height: auto;
+    background-color: darkgray;
+}
+
+.val {
+    width: 600px;
+    padding-top: 80px;
+}
+
+.especificacion {
+    width: auto;
+    height: 1000px;
+    background-color: black;
+    color: aliceblue;
+    padding-top: 20px;
+    font-size: 30px;
+    
+}
+.especi {
+    width: 90%;
+    padding-top: 40px;
+}
+
+.fin {
+    height: auto;
+    background-color: darkgray;
+    margin-top: 0px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.jett {
+    width: 600px;
+    height: 500px;
+}
+.omen {
+    width: 600px;
+    height: 500px;
+}
+.reyna {
+    width: 600px;
+    height: 500px;
+}
+.sage {
+    width: 600px;
+    height: 500px;
+}
+.yoru {
+    width: 600px;
+    height: 500px;
+}
+.viper {
+    width: 600px;
+    height: 500px;
+}
+.volver{
+    background-color: black;
+    color: aliceblue;
+    padding-top: 10px;
+    margin-top: 0px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+.inicio{
+    width: 100%;
+}
+.fincs {
+    height: 700px;
+    background-color: darkgray;
+    margin-top: 0px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.compu {
+    width: 90%;
+}
+.pjc {
+    width: 90%;
+    height: 500px;
+}
+
+.especificacioncs {
+    width: auto;
+    height: auto;
+    background-color: black;
+    color: aliceblue;
+    padding-top: 20px;
+    font-size: 30px;
+    padding-bottom: 50px;
+}
+
+.creditos {
+    width: auto;
+    padding-top: 10px;
+    background-color: black;
+    color: aliceblue;
+    height: 125px;
+    font-size: 20px;
+}
